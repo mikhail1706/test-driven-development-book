@@ -1,0 +1,11 @@
+behave==1.2.6
+behave-django==1.3.0
+Django==1.11.24
+djangorestframework==3.10.3
+parse==1.12.1
+parse-type==0.5.2
+pytz==2019.1
+selenium==3.141.0
+six==1.12.0
+sqlparse==0.3.0
+urllib3==1.25.3

@@ -1,0 +1,2 @@
+ansible-playbook -i inventory.ansible provision.ansible.yaml --limit=staging
+--ask-become-pass
